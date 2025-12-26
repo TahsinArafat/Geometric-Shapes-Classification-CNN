@@ -50,23 +50,23 @@ This repository follows the required structure for reproducibility:
 
 | Accuracy vs Epochs | Loss vs Epochs |
 | :---: | :---: |
-| ![Accuracy Plot](path/results/Accuracy-Loss-Epoch-Comparison.png) | ![Loss Plot](path/to/loss_plot.png) |
+| ![Accuracy Plot](results/AvE.png) | ![Loss Plot](results/LvE.png) |
 *(Upload your plots to the repo and update the links above, or leave blank if submitting the notebook alongside)*
 
 ### 2. Confusion Matrix
 *A heatmap showing model performance on the standard test set.*
 
-![Confusion Matrix](path/to/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.png)
 
 ### 3. Custom "Phone" Predictions
 *Real-world test using smartphone photos located in the `dataset/` folder.*
 
-![Custom Predictions](path/to/custom_predictions.png)
+![Custom Predictions](results/custom_predictions.png)
 
 ### 4. Error Analysis
 *Examples of images from the standard test set that the model classified incorrectly.*
 
-![Error Analysis](path/to/error_analysis.png)
+![Error Analysis](results/error_analysis.png)
 
 ---
 
