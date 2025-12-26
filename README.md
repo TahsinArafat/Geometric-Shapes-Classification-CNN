@@ -50,7 +50,7 @@ This repository follows the required structure for reproducibility:
 
 | Accuracy vs Epochs | Loss vs Epochs |
 | :---: | :---: |
-| ![Accuracy Plot](path/to/accuracy_plot.png) | ![Loss Plot](path/to/loss_plot.png) |
+| ![Accuracy Plot](path/results/Accuracy-Loss-Epoch-Comparison.png) | ![Loss Plot](path/to/loss_plot.png) |
 *(Upload your plots to the repo and update the links above, or leave blank if submitting the notebook alongside)*
 
 ### 2. Confusion Matrix
